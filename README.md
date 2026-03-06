@@ -1,3 +1,7 @@
+**🌐 언어 선택 / Language:** [한국어](README.md) | [English](README_EN.md)
+
+---
+
 # Reverse Correlation 재현 가이드 (rcicr / 2IFC)
 이 레포는 **본인이 가진 base face + 참가자 응답(csv)**을 이용해, 아래 산출물을 **재현**하는 데 필요한 코드만 제공합니다.
 
