@@ -1,3 +1,7 @@
+**🌐 언어 선택 / Language:** [한국어](README.md) | [English](README_EN.md)
+
+---
+
 # Reverse Correlation Reproduction Guide (rcicr / 2IFC)
 
 This repository provides only the code needed to **reproduce** the following outputs using **your own base face + participant responses (csv)**.
